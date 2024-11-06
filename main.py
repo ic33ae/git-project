@@ -1,7 +1,7 @@
 
 print ("Selamat siang")
 print ("Apa kamu wehhh")
-input("Masukan nama kamu: ")
+nama = input("Masukan nama kamu: ")
 
 print (f"Selamat siang {nama}")
 print ("Ini adalah branch latihan kamu")
