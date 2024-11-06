@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 print ("Selamat siang")
 print ("Apa kamu wehhh")
-=======
-nama = input("Masukan nama kamu: ")
+input("Masukan nama kamu: ")
 
 print (f"Selamat siang {nama}")
 print ("Ini adalah branch latihan kamu")
->>>>>>> latihan
+
