@@ -7,4 +7,3 @@ print (f"Selamat siang {nama}")
 print ("Ini adalah branch latihan kamu")
 
 print(f"Selamat Sore {nama}")
-print(f"Selamat Malam {nama}")
